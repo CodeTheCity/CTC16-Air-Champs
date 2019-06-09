@@ -2,9 +2,9 @@ AIR CHAMPS
 
 We took on 2 scopes of work for the Weekend; 
 
-Idea 1. Dashboard
+  Idea 1. Dashboard
 
-Opportunity 4. Data Calculations and triggers
+  Opportunity 4. Data Calculations and triggers
 
 
 Plan; 
@@ -18,7 +18,7 @@ While the team 'Data Gathering' were working on their APIs we focused on pulling
 - Daily Average (Over 24 hours)
 - Daily Maximum (In the last 24 hours) 
 
-We acheived this for the live sensor data
+We acheived this for the live sensor data (get_mean)
 
 NEXT STEP (working) convert this python script to direct to the Google Cloud Data store (as developed by Data Gathering team). 
 

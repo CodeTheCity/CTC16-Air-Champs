@@ -2,6 +2,9 @@
 
 AIR CHAMPS
 
+
+CDC WEEKEND AT ABERDEEN UNI (8/9 JUNE)
+
 We took on 2 scopes of work for the Weekend;
 
 Idea 1. Dashboard
